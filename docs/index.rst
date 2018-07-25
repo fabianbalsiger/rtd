@@ -1,5 +1,8 @@
 .. rtd documentation master file.
 
+Read the Docs Python Example
+============================
+
 Hey there!
 
 APIs & reference
@@ -8,4 +11,4 @@ APIs & reference
 .. toctree::
    :maxdepth: 2
 
-   list_modules
+   rtd
