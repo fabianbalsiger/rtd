@@ -1,7 +1,7 @@
-rtd package
-===========
+package 1 package
+=================
 
-.. automodule:: rtd
+.. automodule:: rtd.package1
     :members:
     :undoc-members:
     :show-inheritance:
