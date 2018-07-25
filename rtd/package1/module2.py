@@ -3,6 +3,7 @@
 This is the second module.
 """
 
+
 class Module2Class:
     """Represents a module 2 class."""
 
