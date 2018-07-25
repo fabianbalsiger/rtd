@@ -34,6 +34,7 @@ import sphinx_rtd_theme
 extensions = []
 extensions.append('sphinx.ext.todo')
 extensions.append('sphinx.ext.autodoc')
+extensions.append('sphinxcontrib.napoleon')
 #extensions.append('sphinx.ext.autosummary')
 extensions.append('sphinx.ext.intersphinx')
 extensions.append('sphinx.ext.mathjax')
