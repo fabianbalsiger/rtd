@@ -1,23 +1,17 @@
-package 1 package
-=================
+rtd package
+===========
 
-.. automodule:: rtd.package1
-    :members:
-    :undoc-members:
-    :show-inheritance:
+Subpackages
+-----------
 
-rtd.module1 module
-------------------
+.. toctree::
 
-.. automodule:: rtd.module1
-    :members:
-    :undoc-members:
-    :show-inheritance:
+    rtd.package1
 
-rtd.module2 module
-------------------
+Module contents
+---------------
 
-.. automodule:: rtd.module2
+.. automodule:: rtd
     :members:
     :undoc-members:
     :show-inheritance:
