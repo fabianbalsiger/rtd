@@ -11,4 +11,4 @@ APIs & reference
 .. toctree::
    :maxdepth: 2
 
-   rtd.rst
+   rtd
